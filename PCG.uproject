@@ -32,11 +32,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Diversion",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7c8abd783acd4d66a5290a12a5d67523"
-		},
-		{
 			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
 		},
@@ -56,11 +51,6 @@
 		{
 			"Name": "ScriptableToolsEditorMode",
 			"Enabled": true
-		},
-		{
-			"Name": "VehicleSystemPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9577489aa3264ecf94142dad1bc2956c"
 		}
 	]
 }
