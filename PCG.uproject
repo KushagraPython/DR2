@@ -32,10 +32,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ProceduralVegetationEditor",
-			"Enabled": true
-		},
-		{
 			"Name": "USDImporterMDL",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -54,6 +50,10 @@
 		},
 		{
 			"Name": "NaniteAssemblyEditorUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
 		}
 	]
